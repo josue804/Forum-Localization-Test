@@ -1,0 +1,3 @@
+[submodule "lib/ombucore"]
+	path = lib/ombucore
+	url = git@bitbucket.org:ombu/ombucore.git
