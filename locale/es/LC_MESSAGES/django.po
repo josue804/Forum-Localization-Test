@@ -1207,7 +1207,7 @@ msgstr ""
 #: threads/permissions/threads.py:22 threads/permissions/threads.py:49
 #: threads/search.py:16 threads/viewmodels/thread.py:115 users/apps.py:100
 msgid "Threads"
-msgstr "Hilo"
+msgstr "Hilos"
 
 #: templates/misago/admin/index.html:81
 #: templates/misago/admin/users/delete.html:36
@@ -1929,7 +1929,7 @@ msgstr[1] ""
 #: templates/misago/poll/info.html:14
 #, python-format
 msgid "Posted by %(poster)s on %(posted_on)s."
-msgstr ""
+msgstr "Publicado por %(poster)s en %(posted_on)s"
 
 #: templates/misago/poll/info.html:23
 #, python-format
@@ -2025,7 +2025,7 @@ msgstr ""
 #: templates/misago/thread/posts/post/header.html:30
 #, python-format
 msgid "posted on %(posted_on)s"
-msgstr ""
+msgstr "publicado el %(posted_on)s"
 
 #: templates/misago/profile/feed.html:20
 msgid "Go to post"
@@ -2330,7 +2330,7 @@ msgstr ""
 
 #: templates/misago/thread/posts/post/footer.html:20
 msgid "Reply"
-msgstr ""
+msgstr "Responde"
 
 #: templates/misago/thread/posts/post/header.html:25
 msgid "Unregistered"

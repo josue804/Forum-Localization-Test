@@ -1175,7 +1175,7 @@ msgstr ""
 
 #: static/misago/js/misago.js:9 static/misago/js/misago.js:14
 msgid "Reply"
-msgstr ""
+msgstr "Responde"
 
 #: static/misago/js/misago.js:9
 msgid "Unregistered"
@@ -1184,7 +1184,7 @@ msgstr ""
 #: static/misago/js/misago.js:9 static/misago/js/misago.js:10
 #: static/misago/js/misago.js:12
 msgid "posted %(posted_on)s"
-msgstr ""
+msgstr "publico %(posted_on)s"
 
 #: static/misago/js/misago.js:9 static/misago/js/misago.js:15
 #: static/misago/js/misago.js:17
@@ -1252,7 +1252,7 @@ msgstr ""
 
 #: static/misago/js/misago.js:9 static/misago/js/misago.js:18
 msgid "Threads"
-msgstr ""
+msgstr "Hilos"
 
 #: static/misago/js/misago.js:9
 msgid "You have posted no messages."
